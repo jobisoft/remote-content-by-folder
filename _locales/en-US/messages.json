@@ -1,0 +1,53 @@
+{
+  "appName": {
+    "message": "Remote Content By Folder"
+  },
+  "appDesc": {
+    "message": "Decide whether to allow or block remote content in messages by comparing their folder names to regular expressions."
+  },
+  "settingHeading": {
+    "message": "Setting"
+  },
+  "valueHeading": {
+    "message": "Value"
+  },
+  "descriptionHeading": {
+    "message": "Description"
+  },
+  "allowRegexp": {
+    "message": "Allow regexp"
+  },
+  "allowDescription": {
+    "message": "Regexp matching folder names in which remote content is allowed"
+  },
+  "blockRegexp": {
+    "message": "Block regexp"
+  },
+  "blockDescription": {
+    "message": "Regexp matching folder names in which remote content should be blocked"
+  },
+  "scanRegexp": {
+    "message": "Regexp for folders to scan periodically"
+  },
+  "scanDescription": {
+    "message": "Regexp matching names of folders that should be scanned for new messages periodically"
+  },
+  "checkBlockFirst": {
+    "message": "Check block regexp first"
+  },
+  "debugLogging": {
+    "message": "Enable debug logging"
+  },
+  "examplesTitle": {
+    "message": "Regular Expression Examples"
+  },
+  "matchEverything": {
+    "message": "match everything"
+  },
+  "matchFolders": {
+    "message": "match a certain set of folder names"
+  },
+  "matchFolderExamples": {
+    "message": "^(Spam|Trash|Deleted (Items|Messages))$"
+  }
+}
